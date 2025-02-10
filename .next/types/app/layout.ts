@@ -1,4 +1,4 @@
-// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Website_work\RoomAI4\app\layout.tsx
+// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Interrior-AI\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

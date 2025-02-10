@@ -1,4 +1,4 @@
-// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Website_work\RoomAI4\app\redesign\page.tsx
+// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Interrior-AI\app\redesign\page.tsx
 import * as entry from '../../../../app/redesign/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

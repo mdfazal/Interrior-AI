@@ -77,4 +77,4 @@ async def generate_image(
         raise HTTPException(status_code=response.status_code, detail=error_info)
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8005)
+    uvicorn.run(app, host="localhost", port=8005)
