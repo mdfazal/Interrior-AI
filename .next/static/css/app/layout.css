@@ -695,6 +695,10 @@ video {
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
 }
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -1613,9 +1617,6 @@ video {
 }
 .ease-in-out {
   animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
-.running {
-  animation-play-state: running;
 }
 
 :root {

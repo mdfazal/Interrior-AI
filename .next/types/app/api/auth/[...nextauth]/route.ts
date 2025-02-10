@@ -1,4 +1,4 @@
-// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Website_work\RoomAI4\app\api\auth\[...nextauth]\route.ts
+// File: C:\Users\RICKY DEY\OneDrive\Desktop\Interior_work\Interrior-AI\app\api\auth\[...nextauth]\route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 
