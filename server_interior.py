@@ -134,3 +134,6 @@ async def transform_image(
         except Exception:
             error_info = resp.text
         raise HTTPException(status_code=resp.status_code, detail=error_info)
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8001)
